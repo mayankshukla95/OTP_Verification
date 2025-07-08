@@ -28,8 +28,8 @@ A simple desktop app to send a 6-digit OTP to your Gmail and verify it using a g
 
 ## Screenshots
 
-![Email Entry](docs/demo_email.png)
-![OTP Entry](docs/demo_otp.png)
+![Email Entry](demo_email.png)
+![OTP Entry](demo_otp.png)
 
 ## Notes
 
