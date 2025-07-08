@@ -39,7 +39,7 @@ A simple desktop app to send a 6-digit OTP to your Gmail and verify it using a g
 ## Author
 
 **Mayank Shukla**
-[LinkedIn](https://www.linkedin.com/in/mayank-shukla)
+[LinkedIn](https://www.linkedin.com/in/mayankshukla95/)
 
 ---
 
