@@ -20,7 +20,7 @@ def send_otp():
     attempts_left = 3
     verify_button.config(state="normal")
 
-    password = "hndm vfxy dfin fqsp"
+    password = ""
 
     message = MIMEMultipart()
     message["From"] = email
